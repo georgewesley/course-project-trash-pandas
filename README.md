@@ -2,4 +2,4 @@
 
 The program is a **text-based role-playing game**, where the user will control a raccoon in an unnamed city.
 
-For more details, see the specifications.
+This was created as part of a team project in a software design course at UofT. I implemented the GUI, combat, and music systems. 
